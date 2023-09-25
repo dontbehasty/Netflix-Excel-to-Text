@@ -2,7 +2,7 @@
 
 This will read in a spreadsheet containing a list Netflix Movies and TV Shows into a pandas dataframe.
 
-It will then format the data in the dataframe as followes:
+It will then format the data in the dataframe as follows:
 - Show ID: Remove S and add Leading Zeroes
 - Date: Format to YYYY-MM-DD
 - Type: Convert to Upper Case
